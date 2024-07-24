@@ -1,0 +1,27 @@
+{
+  "type": "service_account",
+  "project_id": "locatrans-cf413",
+  "private_key_id": "337fa8c2021446bad6db6176538f91d3eca7b08e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyuYmq3/oetLfE\nZte10BmfoguPLm1ZzI+R0ujmCMuEsyu/BIweEzeAh7E2Pcw519NmbzFim9loNxpU\nZBtjN2SR6kep3VgCiPCN/p005IJV/NNda+t5KQotHzZ6SPuwVqgAFno1vaHUdg85\nS66wieCAtpdjKPcELMOp1tGxIwnCmioqHAjSweEItxgAAD912N/7zCBfMreFR52K\nX6wVcA5goOq43gg3cMvF2k0ppIzbYjJo0JPFeFxknm8vzFPZDgyjJN9StbrOjysp\nANXV2WUO6sDIG1Nj1RAW65sT72ivMV3WCjFM01RQNTQUjEBH7y4CKlK+HLS4Hgud\nK59Yr9zhAgMBAAECggEAU2J2JPePuiDFtkfnL2fydISFkR1vnlxuxXHaAG0tCvIP\nIHVuLB/6HqjwWKa3cGtOMbYCHAgrhFBlI+d60a0H6n4cRlfDVpduaElZLlLIrnah\nZK5Ts/keStQLtjzz1J9xjWzvQsCBTt9wFeLGE46YZGUMN5LmwJdkCIr11YfL53L9\nT1/JKoZEvfvmAK1dTYW4npaETLkLxF7iSo5NXnVJB/uGZQklfNrc9aCoTEz8NBuq\nn1xJNEGUWaQ2gCEo4pXrG5SB1G1WyBrIybdjl2jHQ+xFJJd93UW6jBhRxWMwDhHW\nwlPbEFki1CuuNw3yQDQ2QQI98XTxmZFfX/gOKovaCwKBgQD2WEkTEUTy4MQkX3Fz\ng18Bo+h4yKkUW6Bq59qzrFA84Ela+w+Fa85iFQvpoVFyxeNC4ogakWnI2iioFQgg\nQopccb5WI0WpllcYmU7vT6OAbgZCShHW7jr4xQYWkjOSDiu11vDuFmMwKMfgj6KO\nLOQ+EgE/f7+GI3P4WmAwF4ImwwKBgQC5ushEnhCTevo03VfE2jvCtAsqRpLgXa/E\nAHuJBX/SMapssaH/pkT7bPeuq94RUkj5K1vwV8V61gvDwtZx5/rcKBw/eZDir6BS\nqBLxYX11kg5pAoJHqz5ONgv3CS735Q2i+LwS8IsQxf8yMvdbZBe0oUzp775W6SJY\nij7kxPTbiwKBgQDA5cTiz2UEIoi0SqBV6Yrdh/Gjks0DCfSFgeQ5STbTVHVcbrdq\nrE5Bc2WOnilfDCG24BffZfpFsr6fT0i7qh8Z4F9AqAIGl5i/xFyQ+/V1vbHc+o8Z\nlBZNckogJn+HYN1NWG/0n0cwEN7istaBKhnXmNWtWWUprl1DHdGwFthtbQKBgATO\ncKBV9tfaNt9nWv4dJ67COge+C88CnanU2V2SZtxprJ9jeW3EP8TB7Sb4C6cnGfxY\nwuhVXSbwox1NzX7lIfjQkOqTmsxC/0MkVlkozLZeMUFGb1irddFQVL7v3edMZi3x\ngex7jR3CAfiqmPwkeviRtAvZyHM3VUw1R6tj7XJBAoGBAI7fq2zQMN8d3f3azO/f\nybGmsEIHnMP7EEHL5RuA1h8mbij1/66HJFQGdjLdM01CI/imAkbYnQNPOlfGP1/Y\nmWB+irzEaOollY4HuERHsfX3LsoMBokGvL8J7eoFPzIkHGhOMiF1+XtGyNxaGCuw\n9gYv06xVg2aGjOD0myu5WxfS\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-m7h9y@locatrans-cf413.iam.gserviceaccount.com",
+  "client_id": "116594845554810372195",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-m7h9y%40locatrans-cf413.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "modec_ambiente_producao": false,
+  "modec_homolog_codigo_fornece": 642,
+  "modec_homolog_token": "YHequASc10lko3OMjRsxAuupgCM0ZXhJODJEQXNXZVpBeFM2dnRkblBUY1VYZjIxdFZtcDBqTGpXN2lpcEVnb09xNFFhTEpCczEzWjd4ZHBoMENtAEVudGl0eUlkADE1MA==",
+  "modec_producao_token": "",
+  "modec_producao_codigo_fornece": 642,
+  "modec_type_ler_message": 12,
+  "modec_type_confirmar_message": 13,
+  "modec_type_confirmar_servico": 1,
+  "modec_type_recusa_servico": 2,
+  "modec_type_cancela_com_reembolso": 5,
+  "modec_type_cancela_com_taxa": 19,
+  "modec_type_cancela_sem_custo": 4,
+  "modec_type_recusa_cancelamento": 6
+}
+
